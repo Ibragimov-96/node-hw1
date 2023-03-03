@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.1"
+  }
+}
